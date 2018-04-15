@@ -49,4 +49,8 @@ TravelDatabase.cities.push(
 
 localStorage.setItem(
     "TravelDatabase",
-    JSON.stringify(TravelDatabase))
+    JSON.stringify(TravelDatabase));
+
+    function insertText () {
+        document.getElementById(data) = TravelDatabase;
+    }
