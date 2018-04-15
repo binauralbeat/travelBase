@@ -51,6 +51,7 @@ localStorage.setItem(
     "TravelDatabase",
     JSON.stringify(TravelDatabase));
 
-    function insertText () {
-        document.getElementById(data) = TravelDatabase;
-    }
+   
+       let dataBase = document.getElementById("data");
+        dataBase.innerHTML = TravelDatabase;
+    
