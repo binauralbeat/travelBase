@@ -1,7 +1,7 @@
 // travel database creation
 const TravelDatabase = {}
 
-// Student table in database
+// city table in database
 TravelDatabase.cities = []
 
 // Add cities to the student table in the student database
