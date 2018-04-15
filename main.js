@@ -7,34 +7,35 @@ TravelDatabase.cities = []
 // Add cities to the student table in the student database
 TravelDatabase.cities.push(
    {
-       city: “Jacob Smith”,
-       year: “El Paso, TX”,
-       image: “M”
+       city: “Nehalem Bay, OR”,
+       year: “2003”,
+       image: “src=”
+       "top five":
    },
    {
-       city: “Rachael Babcock”,
-       year: “Tulsa, OK”,
+       city: “”,
+       year: “”,
        image: “F”
    },
    {
-       city: “Daniel Beecroft”,
-       year: “Kingston Springs, TN”,
-       image: “M”
+       city: “”,
+       year: “”,
+       image: “”
    },
    {
-       city: “Deanna Vickers”,
-       year: “Dollar bay, MI”,
+       city: “”,
+       year: “”,
+       image: “”
+   },
+   {
+       city: “”,
+       year: “”,
        image: “F”
    },
    {
-       city: “Hayley Landsberg”,
-       year: “Coral Springs, FL”,
-       image: “F”
-   },
-   {
-       city: “Ronnie Young”,
-       year: “Middlesboro, KY”,
-       image: “M”
+       city: “”,
+       year: “”,
+       image: “”
    }
 )
 
